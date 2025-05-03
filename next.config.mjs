@@ -10,7 +10,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: process.env.NODE_ENV === 'production' ? '/nome-do-seu-repositorio' : '',
+  basePath: process.env.NODE_ENV === 'production' ? '/teste' : '',
   trailingSlash: true,
 }
 
